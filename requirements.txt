@@ -1,0 +1,7 @@
+pandas
+tqdm
+cssutils
+beautifulsoup4==4.8.2
+fasttext-langdetect
+"langcodes[data]"
+flashtext
